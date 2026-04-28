@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LeadOS Pro - Ultimate B2B Growth Engine 🚀
 
-## Getting Started
+![Banner](file:///C:/Users/acer/.gemini/antigravity/brain/87e9c4c3-eb1c-4995-a2fb-dc1091783e26/dashboard_hero_mockup_1777400815348.png)
 
-First, run the development server:
+**LeadOS Pro** is a comprehensive, enterprise-grade Lead Generation, Automated Outreach, and Financial CRM platform designed for modern sales teams and startups. It bridges the gap between lead discovery and closed revenue by automating the entire sales funnel.
 
+---
+
+## ✨ Key Features
+
+### 🔍 1. Smart Lead Discovery
+*   **Hyper-Local Search**: Find businesses in any industry and location using advanced mapping APIs.
+*   **AI Pain Analysis**: Automatically analyzes business gaps and generates tailored "pain point" reports to increase conversion.
+*   **Contact Enrichment**: One-click extraction of emails, phone numbers, and decision-maker roles.
+
+### 📧 2. Automated Outreach Engine
+*   **Bulk Campaigns**: Launch targeted email campaigns to hundreds of leads with a single click.
+*   **Designer Email Templates**: emails are automatically wrapped in professional, newsletter-style HTML templates with company branding.
+*   **3-Day Smart Follow-up**: Automated sequencing that resends follow-ups if a lead hasn't replied within 3 days.
+*   **Gmail SMTP Integration**: Secure, high-deliverability outreach using professional SMTP configurations.
+
+### 💰 3. Financial CRM & Pipeline
+*   **Deal Intelligence**: Track budgets, project revenue, and payments for every client.
+*   **Indian Rupee (₹) Localization**: Fully localized for the Indian market with `en-IN` number formatting.
+*   **Collection Tracking**: Monitor Paid vs. Pending amounts with real-time alerts.
+*   **Referral Tracking**: Attribute every deal to specific team members or organic sources.
+
+### 👥 4. Enterprise Team Management
+*   **RBAC (Role-Based Access Control)**: Create custom roles with granular permissions (View, Add, Edit, Delete) for every module.
+*   **User Accounts**: Manage your entire sales team with secure credentials and unique User IDs.
+*   **Activity Monitoring**: Track team performance and deal distributions.
+
+---
+
+## 🛠️ Tech Stack
+
+*   **Frontend**: Next.js (React), TypeScript, Tailwind CSS
+*   **Icons**: Lucide React
+*   **State Management**: Persistent Local Storage CRM Engine
+*   **API**: Gmail SMTP, LocationIQ API, OpenAI (Integration ready)
+*   **Design**: Custom CSS-in-JS design system with Glassmorphism aesthetic
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/your-username/lead-finder.git
+cd lead-finder
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Install dependencies
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 3. Run the development server
+```bash
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) to see the dashboard.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🔒 Security & Privacy
+LeadOS Pro prioritizes your data. All SMTP credentials and API keys are stored securely in your local environment, ensuring your outreach accounts remain private and protected.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📞 Contact
+**Developed by**: Muthurasu M  
+**Company**: Gen Z Neural-X  
+**Focus**: AI-Powered Business Solutions  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Made with ❤️ for high-performance sales teams.*
